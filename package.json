@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "idnex.js",
+  "dependencies": {
+    "node": "^20.2.0",
+    "node-bin-setup": "^1.1.3",
+    "ws": "^8.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
